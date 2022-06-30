@@ -122,4 +122,16 @@ section {
     padding: 10px 20px;
     font-size: 16px;
 }
+
+.top-of-form input{
+    width:100%;
+    margin:5px 0px;
+    padding:10px;
+    font-size:18px;
+}
+.top-of-form label{
+    display:block;
+    padding-top:10px;
+}
+
 /* HERO STYLES END */
